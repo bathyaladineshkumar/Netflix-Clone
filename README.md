@@ -1,2 +1,24 @@
-# Netflix-Clone
-Developed a responsive Netflix clone using HTML, CSS, JavaScript, and Bootstrap. Replicates Netflix’s user interface with sections for featured content, hover effects, and responsive layouts. Designed to offer seamless experience across desktops, laptops, and mobile devices.
+# Netflix Clone 🎬
+
+A responsive web application that replicates the user interface of Netflix. Built with HTML, CSS, Bootstrap, and JavaScript, this project showcases frontend development skills with focus on layout, design, and user interactivity.
+
+## 🚀 Tech Stack
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+## 🎯 Features
+- Netflix-like homepage layout
+- Dynamic sections for featured content
+- Hover effects and transitions
+- Responsive design for desktop, tablet, and mobile
+- Fully static frontend project for UI practice
+
+## 📷 Screenshots
+(You can add screenshots here later)
+
+## 📦 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/netflix-clone.git
